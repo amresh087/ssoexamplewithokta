@@ -12,7 +12,7 @@ Administrator
 
 Password
 
-Ellen@year3
+Ellen@******year3
 
 user guide
 
@@ -26,11 +26,11 @@ renuaryanverma-wefk@force.com
 
 password
 
-Ellen@year3
+Ellen@****year3
 
 //=============== mongo
 
-renuaryanverma@gmail.com Ellen@year3
+renuaryanverma@gmail.com Ellen@*****year3
 
 //==================
 
@@ -38,7 +38,7 @@ https://dev-10379061.okta.com/
 
 renu_verma@persistent.com
 
-Ellen@year3
+Ellen@******year3
 
 meta data
 
